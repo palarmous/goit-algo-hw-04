@@ -38,7 +38,6 @@ def show_all(contacts):
     else:
         return "No contacts found."
 
-
 def main():
     contacts = {}
     print("Welcome to the assistant bot!")
